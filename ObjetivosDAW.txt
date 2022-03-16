@@ -1,5 +1,4 @@
  Trabajo con servidores
  Conocimiento de GIT
  Trabajo Docker
- Kubernetes
- Trabajo práctico en empresas
+
